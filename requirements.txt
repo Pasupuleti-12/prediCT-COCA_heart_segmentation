@@ -1,0 +1,11 @@
+numpy>=1.26
+torch>=2.2
+monai>=1.3
+SimpleITK>=2.3
+scikit-learn>=1.4
+matplotlib>=3.8
+pydicom>=3.0
+pandas>=2.2
+nibabel>=5.2
+totalsegmentator>=2.6
+jupyter>=1.0
